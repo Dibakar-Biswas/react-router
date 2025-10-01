@@ -8,4 +8,4 @@ const Laptops = () => {
     );
 };
 
-export default Laptops;<h2>This is laptops</h2>
+export default Laptops;
