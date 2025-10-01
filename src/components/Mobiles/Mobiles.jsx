@@ -8,4 +8,4 @@ const Mobiles = () => {
     );
 };
 
-export default Mobiles;<h2>This is mobile</h2>
+export default Mobiles;
